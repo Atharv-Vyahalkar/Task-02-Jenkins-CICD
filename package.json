@@ -1,0 +1,10 @@
+{
+  "name": "devops-cicd-demo",
+  "version": "1.0.0",
+  "description": "Node.js application for CI/CD automation using GitHub Actions and Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
